@@ -1,4 +1,4 @@
-# 🎬 Image-to-Video Multi-Agent Pipeline
+# image-video-multiagent-pipeline
 
 AI Engineer Take-home Assignment
 
